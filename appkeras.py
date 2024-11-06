@@ -9,7 +9,7 @@ from streamlit_drawable_canvas import st_canvas
 st.image('logo.gif', use_column_width=True)  # Asegúrate de que el logo esté en la misma carpeta que tu script
 
 # Título
-st.title("ALFREDO DIAZ CLARO 2024")
+st.title("Luis Estupiñán 2024")
 
 # Lista de modelos disponibles
 modelos_disponibles = ['numerosD1.keras','numerosC2.keras','numerosC3.keras']
